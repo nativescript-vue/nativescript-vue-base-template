@@ -1,0 +1,33 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.vue.base"
+  },
+  "main": "app.bundle.js",
+  "name": "nativescript-vue-base-template",
+  "displayName": "Base",
+  "templateType": "Base App template",
+  "version": "1.0.0",
+  "description": "Base template for NativeScript-Vue-Webpack-Template",
+  "author": "rigor789",
+  "license": "MIT",
+  "keywords": [
+    "nativescript",
+    "nativescript-vue",
+    "vue",
+    "{N}",
+    "tns",
+    "appbuilder",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rigor789/nativescript-vue-base-template"
+  },
+  "homepage": "https://github.com/rigor789/nativescript-vue-base-template",
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "dependencies": {
+    "tns-core-modules": "3.3.0"
+  }
+}
