@@ -6,7 +6,7 @@
   "name": "nativescript-vue-base-template",
   "displayName": "Base",
   "templateType": "Base App template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Base template for NativeScript-Vue-Webpack-Template",
   "author": "rigor789",
   "license": "MIT",
@@ -28,6 +28,6 @@
     "v8Flags": "--expose_gc"
   },
   "dependencies": {
-    "tns-core-modules": "3.3.0"
+    "tns-core-modules": "3.4.0"
   }
 }
